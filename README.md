@@ -43,6 +43,3 @@ Please, change the source path to the proper one on your machine.
 test_texts = read_test_dat_file('path/test.dat')
 Please, change the source path to the proper one on your machine.
 
-
-
-![image](https://github.com/user-attachments/assets/e1c31a42-b0a6-46e9-bf43-2d7970650aee)
